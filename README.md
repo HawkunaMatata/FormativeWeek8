@@ -27,5 +27,6 @@ N/A
 
 # Wireframes 
 
-![Title of the image](image.jpg)
+![Wireframe 1](https://github.com/HawkunaMatata/FormativeWeek8/assets/150437837/d8c3b21b-be11-40bd-ad33-7420a1d6c79c)
+
 ![Title of another image](image.jpg)# 
