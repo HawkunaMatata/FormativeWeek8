@@ -29,4 +29,5 @@ N/A
 
 ![Wireframe 1](https://github.com/HawkunaMatata/FormativeWeek8/assets/150437837/d8c3b21b-be11-40bd-ad33-7420a1d6c79c)
 
-![Title of another image](image.jpg)# 
+![Wireframe 2](https://github.com/HawkunaMatata/FormativeWeek8/assets/150437837/a83f082d-3f33-4d95-893c-0ec62d461c98)
+# 
