@@ -1,6 +1,9 @@
 # Violent Supply/Demand
 A look at violence and video games and any correlation, mainly looking at whether video games contribute to creating violence or simply supply an outlet to a societal demand. 
 
+![Prototype Image 1](https://github.com/HawkunaMatata/FormativeWeek8/assets/150437837/f7f13e35-bdf6-4454-9d2b-f59844932e71)
+
+
 # Theme  
 This experiment seeks to explore the fabled correlation between video games and violence in real world scenarios, by combining both in a single interface. 
 The hope is to explore the violent shock factor and whether users are numbed to the violence inherent to the created interface. 
